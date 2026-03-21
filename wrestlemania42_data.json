@@ -1,0 +1,636 @@
+{
+  "event": {
+    "name": "WrestleMania 42",
+    "tagline": "The Showcase of the Immortals",
+    "dates": {
+      "night1": "Saturday, April 18, 2026",
+      "night2": "Sunday, April 19, 2026"
+    },
+    "startTime": "6:00 PM ET / 3:00 PM PT",
+    "venue": "Allegiant Stadium",
+    "city": "Paradise, Nevada (Las Vegas)",
+    "broadcast": ["ESPN", "Netflix", "Peacock", "USA Network", "CW Network"]
+  },
+
+  "wrestlers": {
+    "cm_punk": {
+      "ringName": "CM Punk",
+      "realName": "Phillip Jack Brooks",
+      "dateOfBirth": "October 26, 1978",
+      "age": 47,
+      "height": "6'2\"",
+      "weight": "218 lbs",
+      "hometown": "Chicago, Illinois",
+      "billedFrom": "Chicago, Illinois",
+      "nicknames": ["The Best in the World", "The Second City Saint", "The Straight Edge Superstar", "The Voice of the Voiceless"],
+      "finishers": ["Go To Sleep (GTS)", "Anaconda Vice"],
+      "signatureMoves": ["Running High Knee", "Diving Elbow Drop (Macho Man tribute)", "Roundhouse Kick", "Pepsi Twist / Neckbreaker"],
+      "themeSong": {
+        "name": "Cult of Personality",
+        "artist": "Living Colour"
+      },
+      "alignment": "Face (with signs of possible heel turn heading into WrestleMania 42)",
+      "brand": "Raw",
+      "currentChampionship": "World Heavyweight Champion",
+      "crowdChants": [
+        "CM Punk! CM Punk!",
+        "Best in the World!",
+        "Crowd sings along to 'Cult of Personality' entrance",
+        "It's Clobberin' Time! (Punk's catchphrase shouted during entrance)"
+      ],
+      "bio": "CM Punk is one of the most electrifying and outspoken wrestlers in WWE history. After a dramatic departure from WWE in 2014 and a stint in UFC and AEW, Punk made a shocking return at Survivor Series: WarGames in November 2023. Punk suffered a torn triceps at the 2024 Royal Rumble, returned later that year, and captured the World Heavyweight Championship from Gunther at SummerSlam 2025. He is known for his straight-edge lifestyle (no drugs, alcohol, or tobacco) and his willingness to blur the lines between fiction and reality with deeply personal promos.",
+      "careerHighlights": [
+        "World Heavyweight Champion (current reign, won at SummerSlam 2025)",
+        "2x WWE Champion (including iconic 434-day reign, 2011-2013)",
+        "Winner of the 2008 and 2009 Money in the Bank ladder matches",
+        "Delivered the legendary 'Pipe Bomb' promo on June 27, 2011",
+        "Main evented multiple WrestleManias and pay-per-views",
+        "Returned to WWE at Survivor Series: WarGames 2023 after 9+ year absence",
+        "Former World Tag Team Champion, ECW Champion, and Intercontinental Champion"
+      ]
+    },
+
+    "roman_reigns": {
+      "ringName": "Roman Reigns",
+      "realName": "Leati Joseph Anoa'i",
+      "dateOfBirth": "May 25, 1985",
+      "age": 40,
+      "height": "6'3\"",
+      "weight": "265 lbs",
+      "hometown": "Pensacola, Florida",
+      "billedFrom": "Pensacola, Florida",
+      "nicknames": ["The Tribal Chief", "The Original Tribal Chief (OTC)", "The Head of the Table", "The Big Dog", "The Needle Mover"],
+      "finishers": ["Spear", "Guillotine Choke"],
+      "signatureMoves": ["Superman Punch", "Drive-By (Apron Dropkick)", "Samoan Drop"],
+      "themeSong": {
+        "name": "I Am Greatness",
+        "artist": "def rebel (debuted at SummerSlam 2024 upon babyface return)"
+      },
+      "alignment": "Face (turned babyface at SummerSlam 2024 after 4-year heel run)",
+      "brand": "SmackDown (appears on Raw as needed)",
+      "currentChampionship": null,
+      "crowdChants": [
+        "OTC! OTC!",
+        "Acknowledge Me! (former heel catchphrase, still used by fans)",
+        "Roman! Roman!",
+        "Head of the Table!"
+      ],
+      "bio": "Roman Reigns is a member of the legendary Anoa'i wrestling dynasty and one of WWE's biggest stars of the modern era. After debuting as part of The Shield in 2012, Reigns became a dominant singles competitor. His 4-year reign as Universal Champion (2020-2024) as 'The Tribal Chief' cemented him as one of the greatest heels in wrestling history. After losing the title at WrestleMania 40 in 2024, Reigns returned at SummerSlam 2024 as a babyface, siding with fans against the new Bloodline. He won the 2026 Royal Rumble, choosing to challenge CM Punk at WrestleMania 42. Reigns is a former college football player who played at Georgia Tech.",
+      "careerHighlights": [
+        "6x World Champion (4x Universal Champion, 1x WWE Champion, 1x World Heavyweight Champion)",
+        "Longest Universal Championship reign in history (1,316 days, 2020-2024)",
+        "2x Royal Rumble winner (2015, 2026)",
+        "WWE Triple Crown Champion and Grand Slam Champion",
+        "Founding member of The Shield with Seth Rollins and Dean Ambrose",
+        "Main evented WrestleMania 31, 32, 33, 37, 38, 39, and 40",
+        "Defeated The Undertaker at WrestleMania 33"
+      ]
+    },
+
+    "cody_rhodes": {
+      "ringName": "Cody Rhodes",
+      "realName": "Cody Garrett Runnels",
+      "dateOfBirth": "June 30, 1985",
+      "age": 40,
+      "height": "6'1\"",
+      "weight": "220 lbs",
+      "hometown": "Marietta, Georgia",
+      "billedFrom": "Marietta, Georgia",
+      "nicknames": ["The American Nightmare"],
+      "finishers": ["Cross Rhodes (Rolling Cutter)", "Cody Cutter (Springboard Cutter)"],
+      "signatureMoves": ["Disaster Kick", "Figure Four Leglock", "Bionic Elbow (Dusty Rhodes tribute)"],
+      "themeSong": {
+        "name": "Kingdom",
+        "artist": "Downstait"
+      },
+      "alignment": "Face (top babyface in WWE)",
+      "brand": "SmackDown",
+      "currentChampionship": "Undisputed WWE Champion (regained from Drew McIntyre on SmackDown before WrestleMania 42)",
+      "crowdChants": [
+        "Woooah-oh! (crowd sings along with 'Kingdom' entrance)",
+        "Cody! Cody!",
+        "American Nightmare!"
+      ],
+      "bio": "Cody Rhodes is the son of the legendary 'American Dream' Dusty Rhodes and has carved out his own legacy as 'The American Nightmare.' After leaving WWE in 2016, he became a co-founder of AEW and one of the biggest stars in professional wrestling. He returned to WWE in 2022 at WrestleMania 38 and spent two years on a mission to 'Finish the Story' his father never could -- winning the WWE Championship. He captured the Undisputed WWE Championship from Roman Reigns at WrestleMania 40 in 2024, delivering one of the most emotionally resonant moments in wrestling history. He is currently in his second reign after regaining it from Drew McIntyre.",
+      "careerHighlights": [
+        "Undisputed WWE Champion (current, reclaimed from Drew McIntyre)",
+        "First reign: 378 days as Undisputed WWE Champion (WrestleMania 40, 2024)",
+        "2x Royal Rumble winner (2023, 2024)",
+        "2025 King of the Ring winner",
+        "Co-founded All Elite Wrestling (AEW) in 2019",
+        "Former Intercontinental Champion, Tag Team Champion",
+        "Son of WWE Hall of Famer Dusty Rhodes",
+        "Former member of The Legacy with Randy Orton and Ted DiBiase Jr."
+      ]
+    },
+
+    "randy_orton": {
+      "ringName": "Randy Orton",
+      "realName": "Randal Keith Orton",
+      "dateOfBirth": "April 1, 1980",
+      "age": 45,
+      "height": "6'5\"",
+      "weight": "250 lbs",
+      "hometown": "St. Louis, Missouri",
+      "billedFrom": "St. Louis, Missouri",
+      "nicknames": ["The Viper", "The Apex Predator", "The Legend Killer"],
+      "finishers": ["RKO (Jumping Cutter)"],
+      "signatureMoves": ["Rope-Hung DDT", "Punt Kick", "Powerslam", "Inverted Headlock Backbreaker"],
+      "themeSong": {
+        "name": "Voices",
+        "artist": "Rev Theory"
+      },
+      "alignment": "Heel (turned heel on March 13, 2026 SmackDown by attacking Cody Rhodes during contract signing)",
+      "brand": "SmackDown",
+      "currentChampionship": null,
+      "crowdChants": [
+        "RKO! RKO!",
+        "Randy! Randy!",
+        "Viper! Viper!",
+        "One More Time! (fans chanting for another RKO)"
+      ],
+      "bio": "Randy Orton is a third-generation wrestler and one of the most decorated champions in WWE history. Known for his predatory in-ring style and the devastating RKO, Orton became the youngest World Heavyweight Champion at age 24 in 2004. He has seamlessly transitioned between face and heel personas throughout his career, most recently turning heel in March 2026 by brutally attacking his longtime friend Cody Rhodes during their WrestleMania 42 contract signing. Orton is seeking a record-tying 15th World Championship. His 'RKO outta nowhere' has become one of the most iconic and memed moments in wrestling culture.",
+      "careerHighlights": [
+        "14x World Champion (record-chasing quest for 15th reign at WrestleMania 42)",
+        "Youngest World Heavyweight Champion in WWE history (age 24, 2004)",
+        "2x Royal Rumble winner (2009, 2017)",
+        "2013 Money in the Bank winner",
+        "WWE Grand Slam Champion",
+        "Former member of Evolution (with Triple H, Ric Flair, Batista)",
+        "Former leader of The Legacy (with Cody Rhodes, Ted DiBiase Jr.)",
+        "Returned from career-threatening back injury in 2023 after 18-month absence",
+        "3rd generation wrestler (son of 'Cowboy' Bob Orton, grandson of Bob Orton Sr.)"
+      ]
+    },
+
+    "rhea_ripley": {
+      "ringName": "Rhea Ripley",
+      "realName": "Demi Bennett",
+      "dateOfBirth": "October 11, 1996",
+      "age": 29,
+      "height": "5'7\"",
+      "weight": "137 lbs",
+      "hometown": "Adelaide, South Australia",
+      "billedFrom": "Adelaide, Australia",
+      "nicknames": ["Mami", "The Eradicator", "The Nightmare", "Brutality Personified"],
+      "finishers": ["Riptide (Pumphandle Powerbomb)"],
+      "signatureMoves": ["Prism Trap (Inverted Cloverleaf)", "Headbutt", "Northern Lights Suplex", "Big Boot"],
+      "themeSong": {
+        "name": "Demon in Your Dreams",
+        "artist": "def rebel (featuring Motionless in White)"
+      },
+      "alignment": "Face (beloved antihero babyface)",
+      "brand": "Raw / SmackDown (cross-brand appearances)",
+      "currentChampionship": null,
+      "crowdChants": [
+        "Mami! Mami!",
+        "Rhea! Rhea!",
+        "Ripley! Ripley!",
+        "This is Awesome! (during her matches)"
+      ],
+      "bio": "Rhea Ripley is an Australian powerhouse who has become one of the most popular and dominant women in WWE history. Known for her imposing presence, punk-rock aesthetic, and incredible strength, Ripley broke barriers as the first female Australian champion in WWE history. She rose to prominence through NXT UK, NXT, and then the main roster, becoming the enforcer and breakout star of The Judgment Day. Her on-screen relationship with Dominik Mysterio as 'Mami' became one of WWE's most popular storylines. She has not held a singles title since March 2025 and is hungry to reclaim championship gold at WrestleMania 42.",
+      "careerHighlights": [
+        "2x Women's World Champion",
+        "1x Raw Women's Champion (defeated Charlotte Flair at WrestleMania 39)",
+        "Winner of the 2023 Women's Royal Rumble Match",
+        "1x NXT Women's Champion, 1x NXT UK Women's Champion",
+        "WWE Women's Tag Team Champion (with Iyo Sky, won January 2026)",
+        "First female Australian champion in WWE history",
+        "7th WWE Women's Triple Crown Champion, 5th Women's Grand Slam Champion",
+        "Won Women's Elimination Chamber 2026 to earn WrestleMania 42 title shot",
+        "Former key member of The Judgment Day"
+      ]
+    },
+
+    "jade_cargill": {
+      "ringName": "Jade Cargill",
+      "realName": "Jade Cargill",
+      "dateOfBirth": "June 3, 1992",
+      "age": 33,
+      "height": "5'10\"",
+      "weight": "160 lbs",
+      "hometown": "Gifford, Florida",
+      "billedFrom": "Gifford, Florida",
+      "nicknames": ["The Storm", "That Bitch", "That Chick (PG version)"],
+      "finishers": ["Jaded (Chickenwing Facebuster / Pump Handle Slam)"],
+      "signatureMoves": ["Bicycle Kick", "Fallaway Slam", "Spinning Backfist", "Powerslam"],
+      "themeSong": {
+        "name": "A Storm Is Coming",
+        "artist": "def rebel"
+      },
+      "alignment": "Heel (turned heel on October 24, 2025 SmackDown by attacking Tiffany Stratton)",
+      "brand": "SmackDown",
+      "currentChampionship": "WWE Women's Champion",
+      "crowdChants": [
+        "Jade! Jade!",
+        "A Storm Is Coming! (echoing her entrance)",
+        "That Bitch! (controversial fan chant)"
+      ],
+      "bio": "Jade Cargill is a dominant, physically imposing competitor who made history as the first Superstar of Jamaican descent to hold a WWE World Championship. Before WWE, she was the inaugural AEW TBS Champion and went undefeated for over two years in AEW. She signed with WWE in September 2023 and quickly established herself as a force to be reckoned with. After winning the 2025 Queen of the Ring tournament, she captured the WWE Women's Championship from Tiffany Stratton at Saturday Night's Main Event in November 2025. She boasts a 2-0 WrestleMania record and has not suffered a one-on-one loss in over seven months heading into WrestleMania 42.",
+      "careerHighlights": [
+        "Current WWE Women's Champion (first reign, won November 1, 2025)",
+        "2025 Queen of the Ring winner",
+        "2x WWE Women's Tag Team Champion (with Bianca Belair)",
+        "Inaugural AEW TBS Champion (longest-reigning at 508 days)",
+        "2-0 WrestleMania record",
+        "First Superstar of Jamaican descent to hold a WWE World Championship",
+        "Went undefeated for over two years in AEW (60-0 record)",
+        "Former collegiate basketball player at Jacksonville University"
+      ]
+    },
+
+    "stephanie_vaquer": {
+      "ringName": "Stephanie Vaquer",
+      "realName": "Ana Stephanie Vaquer Gonzalez",
+      "dateOfBirth": "March 29, 1993",
+      "age": 33,
+      "height": "5'5\"",
+      "weight": "132 lbs",
+      "hometown": "San Antonio, Valparaiso Region, Chile",
+      "billedFrom": "Santiago, Chile",
+      "nicknames": ["La Primera (The First One)", "The Dark Angel"],
+      "finishers": ["SVB (Package Backbreaker)", "Corkscrew Moonsault"],
+      "signatureMoves": ["Vaquer Special (Octopus Hold)", "German Suplex Hold", "Dragon Screw", "Hurricanrana"],
+      "themeSong": {
+        "name": "New entrance theme (debuted February 2, 2026 on Raw; previous theme was 'Bury Me' by Chris Egert, original theme was 'La Primera' by Swav ft. Kara Vale)",
+        "artist": "def rebel (new theme)"
+      },
+      "alignment": "Face (fighting champion, beloved for her underdog journey)",
+      "brand": "Raw",
+      "currentChampionship": "Women's World Champion",
+      "crowdChants": [
+        "Vaquer! Vaquer!",
+        "La Primera!",
+        "Let's Go Vaquer!"
+      ],
+      "bio": "Stephanie Vaquer is a trailblazing Chilean wrestler who has earned a reputation as one of the most technically skilled women in professional wrestling worldwide. She honed her craft across Mexico (CMLL), Japan (NJPW/Stardom), and other promotions before signing with WWE in July 2024. Her horns motif symbolizes her Aries zodiac sign. Vaquer made history multiple times -- becoming the first-ever female South American champion in WWE history with the NXT Women's North American Championship, the first woman to hold two NXT titles simultaneously, and the first Chilean and South American woman to win a world championship in WWE when she captured the Women's World Championship at Wrestlepalooza in September 2025.",
+      "careerHighlights": [
+        "Current Women's World Champion (won at Wrestlepalooza, September 2025, defeating Iyo Sky)",
+        "First Chilean and South American woman to win a WWE World Championship",
+        "First woman to hold two NXT titles simultaneously (NXT Women's Championship + NXT Women's North American Championship)",
+        "Former NXT Women's North American Champion (won at Vengeance Day 2025)",
+        "Former NXT Women's Champion (won at Roadblock 2025, defeating Giulia)",
+        "Extensive international career spanning CMLL, NJPW, Stardom",
+        "Successfully defended Women's World Championship in Triple Threat at end of 2025 (vs. Raquel Rodriguez and Nikki Bella)"
+      ]
+    },
+
+    "liv_morgan": {
+      "ringName": "Liv Morgan",
+      "realName": "Gionna Jene Daddio",
+      "dateOfBirth": "June 8, 1994",
+      "age": 31,
+      "height": "5'3\"",
+      "weight": "115 lbs",
+      "hometown": "Elmwood Park, New Jersey",
+      "billedFrom": "Elmwood Park, New Jersey",
+      "nicknames": ["Daddy Liv", "The Miracle Kid"],
+      "finishers": ["Oblivion (Springboard Reverse STO / Flatliner)"],
+      "signatureMoves": ["ObLIVion (alternate name)", "Jersey Codebreaker (Codebreaker in the corner)", "Diving Senton", "Crucifix Pin"],
+      "themeSong": {
+        "name": "Rulers of the World",
+        "artist": "def rebel (Judgment Day theme, used since December 30, 2024)"
+      },
+      "alignment": "Heel (member of The Judgment Day)",
+      "brand": "Raw",
+      "currentChampionship": null,
+      "crowdChants": [
+        "Liv! Liv! Liv!",
+        "Daddy Liv!",
+        "We Want Liv! / Let's Go Liv!",
+        "You Deserve It!"
+      ],
+      "bio": "Liv Morgan is a New Jersey native who rose from humble beginnings and WWE's developmental system to become a multi-time champion. She was discovered by WWE in 2014 at age 20 while working as a waitress at Hooters and quickly became a fan favorite. After years of underdog storylines, she captured her first championship (SmackDown Women's Championship) by cashing in Money in the Bank in 2022. In 2024, she underwent a dramatic heel turn, joining The Judgment Day and becoming the group's leading lady alongside Dominik Mysterio. She won the 2026 Women's Royal Rumble Match from the #14 spot and chose to challenge Stephanie Vaquer for the Women's World Championship at WrestleMania 42. Outside of wrestling, she is pursuing acting, starring in the upcoming film 'Bad Lieutenant: Tokyo.'",
+      "careerHighlights": [
+        "2026 Women's Royal Rumble Match winner",
+        "2x Women's World Champion",
+        "4x WWE Women's Tag Team Champion (with Raquel Rodriguez)",
+        "2022 Ms. Money in the Bank winner",
+        "Former SmackDown Women's Champion",
+        "Key member of The Judgment Day faction",
+        "Wrestled alongside Dominik Mysterio as on-screen couple",
+        "Rising actress in Hollywood"
+      ]
+    },
+
+    "oba_femi": {
+      "ringName": "Oba Femi",
+      "realName": "Isaac Parmar Odugbesan",
+      "dateOfBirth": "April 22, 1998",
+      "age": 27,
+      "height": "6'4\"",
+      "weight": "310 lbs",
+      "hometown": "Lagos, Nigeria",
+      "billedFrom": "Lagos, Nigeria",
+      "nicknames": ["The Ruler", "The Conqueror", "The Destroyer of Worlds"],
+      "finishers": ["Fall From Grace (Pop-Up Falling Powerbomb)"],
+      "signatureMoves": ["Powerbomb variations", "Big Boot", "Running Shoulder Tackle", "Uppercut"],
+      "themeSong": {
+        "name": "Hands of Fate",
+        "artist": "def rebel"
+      },
+      "alignment": "Face (dominant, unstoppable hero figure)",
+      "brand": "Raw",
+      "currentChampionship": null,
+      "crowdChants": [
+        "Oba! Oba!",
+        "Femi! Femi!",
+        "Holy Sh*t! (during power displays)"
+      ],
+      "bio": "Oba Femi is a Nigerian-born powerhouse and former NCAA shot putter who has rapidly become one of WWE's most exciting rising stars. Born in Lagos, Nigeria, he relocated to the United States in 2017 on a track and field scholarship at Middle Tennessee State University, then transferred to the University of Alabama where he won the SEC Indoor shot put title in 2021 and 2022. He signed with WWE in December 2021 through the Next In Line (NIL) program for college athletes. Femi dominated NXT, winning the NXT Breakout Tournament in 2023, the NXT North American Championship, and the NXT Championship twice. He vacated the NXT Championship in January 2026 to move to the main roster, debuting at the Royal Rumble and maintaining an undefeated singles record since his main roster arrival.",
+      "careerHighlights": [
+        "2x NXT Champion (vacated title to move to main roster, January 2026)",
+        "1x NXT North American Champion",
+        "Winner of the 2023 NXT Breakout Tournament",
+        "First NIL program graduate to win a top championship in WWE",
+        "Undefeated singles record on main roster since December 2025 debut",
+        "Accepted Brock Lesnar's WrestleMania 42 Open Challenge",
+        "Former SEC Indoor shot put champion (2021, 2022) at University of Alabama",
+        "Eliminated from 2026 Royal Rumble by Brock Lesnar (establishing their rivalry)"
+      ]
+    },
+
+    "brock_lesnar": {
+      "ringName": "Brock Lesnar",
+      "realName": "Brock Edward Lesnar",
+      "dateOfBirth": "July 12, 1977",
+      "age": 48,
+      "height": "6'3\"",
+      "weight": "286 lbs",
+      "hometown": "Webster, South Dakota",
+      "billedFrom": "Saskatoon, Saskatchewan, Canada",
+      "nicknames": ["The Beast Incarnate", "The Beast", "The Conqueror", "The Next Big Thing"],
+      "finishers": ["F-5 (Fireman's Carry Facebuster)"],
+      "signatureMoves": ["German Suplex (often in rapid succession, 'Suplex City')", "Kimura Lock", "Belly-to-Belly Suplex", "Shoulder Thrusts"],
+      "themeSong": {
+        "name": "Next Big Thing",
+        "artist": "Jim Johnston"
+      },
+      "alignment": "Heel (managed by Paul Heyman, operating as veteran antagonist)",
+      "brand": "Unassigned (Part-Time, appears on both Raw and SmackDown)",
+      "currentChampionship": null,
+      "crowdChants": [
+        "Suplex City! Suplex City!",
+        "Lesnar! Lesnar!",
+        "Holy Sh*t! (during feats of strength)",
+        "Eat! Sleep! Conquer! Repeat!"
+      ],
+      "bio": "Brock Lesnar is one of the most physically dominant and legitimately dangerous athletes in WWE history. A former NCAA Division I Heavyweight Wrestling Champion at the University of Minnesota, Lesnar conquered WWE, left to play in the NFL (Minnesota Vikings preseason), and then dominated UFC as Heavyweight Champion. He returned to WWE in 2012 and has been a special attraction ever since. Known for his brutal, no-nonsense style and his long partnership with advocate Paul Heyman, Lesnar has defeated some of the biggest names in WWE history. At WrestleMania 42, he issued an open challenge that was answered by Oba Femi, setting up a generational clash. Reports suggest WWE may be planning a retirement run for Lesnar in 2026.",
+      "careerHighlights": [
+        "10x World Champion (5x WWE Champion, 3x Universal Champion, 1x World Heavyweight Champion, 1x Undisputed WWF Champion)",
+        "Ended The Undertaker's WrestleMania undefeated streak (21-1) at WrestleMania 30 in 2014",
+        "2003 and 2022 Royal Rumble winner",
+        "2019 Money in the Bank winner",
+        "Former UFC Heavyweight Champion",
+        "NCAA Division I Heavyweight Wrestling Champion (University of Minnesota, 2000)",
+        "Youngest WWE Champion in history at the time (age 25, 2002)",
+        "King of the Ring 2002 winner",
+        "Managed throughout career by Paul Heyman"
+      ]
+    }
+  },
+
+  "matches": {
+    "match1_world_heavyweight_championship": {
+      "title": "World Heavyweight Championship Match",
+      "champion": "cm_punk",
+      "challenger": "roman_reigns",
+      "championship": "World Heavyweight Championship",
+      "stipulation": "Singles match for the World Heavyweight Championship",
+      "expectedNight": "Saturday Night 1 (Main Event)",
+      "stakes": [
+        "CM Punk's World Heavyweight Championship is on the line",
+        "Roman Reigns is looking to add another world title reign to his legendary career",
+        "Deeply personal rivalry with roots going back to 2012 and The Shield's debut",
+        "Paul Heyman's loyalty is caught between two of his biggest clients",
+        "Potential for The Bloodline (Usos) to play a role in the outcome",
+        "CM Punk may turn heel if provoked further by Reigns"
+      ],
+      "storylineBuildup": {
+        "summary": "Roman Reigns won the 2026 Royal Rumble Match, outlasting 29 competitors to earn a world championship match of his choosing at WrestleMania 42. Two days later, Reigns appeared on Raw where he was confronted by World Heavyweight Champion CM Punk. Punk goaded Reigns, claiming he could take the 'easy path' and face SmackDown's champion, or take the 'hard path' and face him. Punk reminded Reigns that he was responsible for bringing Reigns to the main roster as part of The Shield in 2012. Reigns chose Punk, declaring: 'I'm picking you because I hate you. I've always hated you.'",
+        "keyMoments": [
+          {
+            "date": "January 31, 2026",
+            "event": "Royal Rumble",
+            "description": "Roman Reigns wins the 2026 Men's Royal Rumble Match, earning a world championship opportunity at WrestleMania 42."
+          },
+          {
+            "date": "February 2, 2026",
+            "event": "Monday Night Raw",
+            "description": "Reigns appears on Raw and has a heated promo exchange with CM Punk. Punk claims he built Reigns' career through The Shield. Reigns responds that he hates Punk and blames him for fans turning on him in 2014. Reigns reveals he gave management approval for Punk's 2023 return. Reigns officially chooses Punk as his WrestleMania opponent, declaring 'you will acknowledge me.'"
+          },
+          {
+            "date": "February 28, 2026",
+            "event": "Elimination Chamber (Chicago)",
+            "description": "CM Punk successfully defends the World Heavyweight Championship against Finn Balor in his hometown of Chicago, keeping the title heading into WrestleMania."
+          },
+          {
+            "date": "March 2, 2026",
+            "event": "Monday Night Raw",
+            "description": "CM Punk makes incendiary comments about Sika (Roman Reigns' late father), saying he would 'bury' Reigns next to his dead father after WrestleMania. The promo pushes the feud into deeply personal territory."
+          },
+          {
+            "date": "March 9, 2026",
+            "event": "Monday Night Raw",
+            "description": "The Usos come to the ring demanding Punk apologize for his comments about their uncle Sika. Instead of apologizing, Punk fights them, leading to a brawl. The OG Bloodline reunites with The Usos and Roman Reigns on the same page."
+          },
+          {
+            "date": "March 2026 (ongoing)",
+            "event": "Raw / SmackDown",
+            "description": "Paul Heyman is caught between Punk and Reigns. Heyman sides with CM Punk, honoring an old promise to be in Punk's corner for his first WrestleMania main event. Punk had previously helped Reigns, and Heyman feels indebted. This betrayal adds another layer to the Bloodline drama."
+          }
+        ],
+        "whyItMatters": "This match is over a decade in the making. CM Punk and Roman Reigns have never had a one-on-one match in WWE, despite their intertwined history. Punk helped launch Reigns' career via The Shield in 2012, and Punk's departure from WWE in 2014 indirectly made Reigns the face of the company. Their real-life tension (Punk's podcast comments about WWE after leaving, Reigns' rise to the top) blurs the line between fiction and reality. Add in The Bloodline dynamics, Paul Heyman's split loyalties, and the personal attacks on Reigns' family -- this is the most personal and heated feud heading into WrestleMania 42."
+      }
+    },
+
+    "match2_undisputed_wwe_championship": {
+      "title": "Undisputed WWE Championship Match",
+      "champion": "cody_rhodes",
+      "challenger": "randy_orton",
+      "championship": "Undisputed WWE Championship",
+      "stipulation": "Singles match for the Undisputed WWE Championship",
+      "expectedNight": "Saturday Night 1 (possible co-main event)",
+      "stakes": [
+        "Cody Rhodes' Undisputed WWE Championship is on the line",
+        "Randy Orton seeks a historic 15th World Championship to chase John Cena's record",
+        "Legacy vs. legacy: mentor vs. protege from their time in The Legacy faction",
+        "A friendship shattered by Orton's brutal heel turn",
+        "Orton's desperation for 'one last world title reign' drives his betrayal"
+      ],
+      "storylineBuildup": {
+        "summary": "Randy Orton earned his championship opportunity by winning the Elimination Chamber match in February 2026, outlasting Cody Rhodes, LA Knight, Logan Paul, Trick Williams, and Je'Von Evans. Drew McIntyre's outside interference eliminated Rhodes from the Chamber. After Rhodes reclaimed the Undisputed WWE Championship from McIntyre on SmackDown, the stage was set for a deeply personal showdown between former Legacy stablemates and real-life best friends. On the March 13 SmackDown, during their WrestleMania 42 contract signing, Orton shook Cody's hand before viciously attacking him -- smashing his face into the table, using steel steps, and leaving him bloodied with a chair shot to the head -- completing a shocking heel turn.",
+        "keyMoments": [
+          {
+            "date": "January 2026",
+            "event": "SmackDown",
+            "description": "Drew McIntyre defeats Cody Rhodes in a Three Stages of Hell match to win the WWE Championship, ending Cody's second reign at 159 days."
+          },
+          {
+            "date": "February 28, 2026",
+            "event": "Elimination Chamber",
+            "description": "Randy Orton wins the Elimination Chamber match, last eliminating competitors after Drew McIntyre's interference took out Cody Rhodes. Orton earns the right to challenge for the Undisputed WWE Championship at WrestleMania 42."
+          },
+          {
+            "date": "March 2026",
+            "event": "SmackDown",
+            "description": "Cody Rhodes defeats Drew McIntyre to reclaim the Undisputed WWE Championship, setting the stage for his defense against Orton at WrestleMania."
+          },
+          {
+            "date": "March 13, 2026",
+            "event": "SmackDown (Contract Signing)",
+            "description": "During a contract signing, Orton signs the contract, shakes Cody's hand, then brutally attacks him. He smashes Cody's face into the table, rips off his shirt, hits him with steel steps, busts him open, and places Cody's head on the steps before smashing it with a chair. The crowd chants 'Randy' in support of the attack, despite Orton being positioned as the heel."
+          },
+          {
+            "date": "March 16, 2026",
+            "event": "Monday Night Raw",
+            "description": "Randy Orton is seen on the phone with a mysterious person, sparking speculation about potential allies he may bring to WrestleMania."
+          }
+        ],
+        "whyItMatters": "This match is a collision of shared history and broken brotherhood. Cody Rhodes and Randy Orton have known each other since their early days in WWE's Legacy faction (2008-2010), where Orton served as the veteran leader and Rhodes was the young protege. They are genuine real-life friends, making Orton's betrayal all the more devastating. Orton's motivation is clear: he is 45 years old, knows his career is nearing its twilight, and desperately wants one more world title reign to add to his legacy of 14 championships and chase John Cena's record of 17. For Cody, this is about defending the championship his father never won against a man he trusted completely. The 'Legacy' connections make this one of the richest storytelling feuds heading into WrestleMania."
+      }
+    },
+
+    "match3_wwe_womens_championship": {
+      "title": "WWE Women's Championship Match",
+      "champion": "jade_cargill",
+      "challenger": "rhea_ripley",
+      "championship": "WWE Women's Championship",
+      "stipulation": "Singles match for the WWE Women's Championship",
+      "expectedNight": "TBD",
+      "stakes": [
+        "Jade Cargill's WWE Women's Championship is on the line",
+        "Cargill's seven-month undefeated streak in one-on-one competition at risk",
+        "Cargill's perfect 2-0 WrestleMania record on the line",
+        "Rhea Ripley seeking to reclaim singles championship gold after over a year without one",
+        "First-ever meeting between two of WWE's most physically dominant women",
+        "Blurred lines between work and shoot add an unpredictable edge"
+      ],
+      "storylineBuildup": {
+        "summary": "After Rhea Ripley won the Women's Elimination Chamber in February 2026 by last eliminating Tiffany Stratton with a devastating Riptide, she earned the right to challenge Jade Cargill for the WWE Women's Championship at WrestleMania 42. What followed was an unconventional buildup that blurred the lines between scripted rivalry and real-life tension. Cargill and Ripley engaged in heated social media exchanges, with Cargill accusing WWE creative of 'protecting' Ripley and fast-tracking her to WrestleMania. Ripley fired back aggressively. The online warfare sparked intense fan debate about whether the animosity was real or part of the angle -- which appears to be exactly what WWE intended.",
+        "keyMoments": [
+          {
+            "date": "November 1, 2025",
+            "event": "Saturday Night's Main Event",
+            "description": "Jade Cargill captures the WWE Women's Championship from Tiffany Stratton, becoming the first Superstar of Jamaican descent to hold a WWE World Championship."
+          },
+          {
+            "date": "2025",
+            "event": "Queen of the Ring Tournament",
+            "description": "Jade Cargill wins the 2025 Queen of the Ring by defeating Asuka in the tournament final at Night of Champions 2025."
+          },
+          {
+            "date": "February 28, 2026",
+            "event": "Elimination Chamber",
+            "description": "Rhea Ripley wins the Women's Elimination Chamber match, defeating Alexa Bliss, Kiana James, Asuka, Raquel Rodriguez, and Tiffany Stratton. Ripley entered late but dominated the final stretch, hitting Stratton with a Riptide to earn her WrestleMania title shot."
+          },
+          {
+            "date": "February-March 2026",
+            "event": "Social Media / SmackDown",
+            "description": "Cargill dismisses Ripley on X (Twitter), saying Ripley 'would do' as a challenger. Ripley responds during the Elimination Chamber post-show. The back-and-forth escalates with Cargill accusing WWE of protecting Ripley. Chelsea Green and Piper Niven join the conversation, confirming it's part of the storyline. Bryan Alvarez reports WWE is intentionally running an angle on social media to make fans think they 'actually hate each other.'"
+          },
+          {
+            "date": "March 2026",
+            "event": "SmackDown",
+            "description": "Both women proclaim themselves to be 'That Bitch' in a face-to-face confrontation, escalating tensions further."
+          }
+        ],
+        "whyItMatters": "This is the first-ever singles match between two of the most physically imposing women in WWE history. Jade Cargill has been nearly unbeatable since arriving in WWE, boasting a dominant seven-month undefeated streak and a 2-0 WrestleMania record. Rhea Ripley, the most popular woman in WWE, is a proven WrestleMania performer who has previously defeated Asuka, Charlotte Flair, and Becky Lynch on the grandest stage. The social media warfare and 'work or shoot?' tension adds an unpredictable, must-watch quality. Originally, WWE planned for Bianca Belair to challenge Cargill, but injury forced a change to Ripley -- a pivot that may produce an even more compelling matchup."
+      }
+    },
+
+    "match4_womens_world_championship": {
+      "title": "Women's World Championship Match",
+      "champion": "stephanie_vaquer",
+      "challenger": "liv_morgan",
+      "championship": "Women's World Championship",
+      "stipulation": "Singles match for the Women's World Championship",
+      "expectedNight": "TBD",
+      "stakes": [
+        "Stephanie Vaquer's Women's World Championship is on the line",
+        "Vaquer's historic reign as the first South American Women's World Champion at risk",
+        "Liv Morgan looking to become a 3x Women's World Champion",
+        "Morgan backed by The Judgment Day (Dominik Mysterio) -- potential for outside interference",
+        "A clash of backgrounds: Vaquer's global grind vs. Morgan's WWE-made stardom"
+      ],
+      "storylineBuildup": {
+        "summary": "Liv Morgan won the 2026 Women's Royal Rumble Match from the #14 spot, earning the right to challenge the Women's Champion of her choosing at WrestleMania 42. Over the following weeks, Morgan teased both Jade Cargill and Stephanie Vaquer as potential targets. The feud became personal when Vaquer interrupted Morgan during an interview, claiming Morgan hadn't truly earned her position. That comment struck a nerve, and Morgan knew exactly who she wanted to face. On the February 23 episode of Raw, Morgan -- accompanied by Dominik Mysterio -- confronted both champions. She initially appeared to show respect for Vaquer's journey, acknowledging that Vaquer had 'scratched and clawed' across the world before reaching WWE. But then Morgan attacked Vaquer with a Codebreaker, positioned her in the ropes, and finished with Oblivion -- sealing her choice in brutal fashion.",
+        "keyMoments": [
+          {
+            "date": "September 2025",
+            "event": "Wrestlepalooza",
+            "description": "Stephanie Vaquer defeats Iyo Sky to win the vacant Women's World Championship, becoming the first Chilean and South American woman to win a world championship in WWE."
+          },
+          {
+            "date": "December 29, 2025",
+            "event": "Monday Night Raw",
+            "description": "Vaquer successfully defends the Women's World Championship in a Triple Threat match against Raquel Rodriguez and Nikki Bella, ending 2025 as champion."
+          },
+          {
+            "date": "January 31, 2026",
+            "event": "Royal Rumble",
+            "description": "Liv Morgan wins the 2026 Women's Royal Rumble Match from the #14 spot, last eliminating Tiffany Stratton with an Oblivion."
+          },
+          {
+            "date": "February 2026",
+            "event": "SmackDown / Raw",
+            "description": "Vaquer interrupts Morgan during an interview and claims Morgan hasn't earned her position. This personal slight motivates Morgan's WrestleMania decision."
+          },
+          {
+            "date": "February 23, 2026",
+            "event": "Monday Night Raw (Atlanta)",
+            "description": "With Dominik Mysterio by her side, Liv Morgan brings out both Vaquer and Cargill for a face-to-face. Morgan feigns respect for Vaquer's journey but then attacks her with a Codebreaker and Oblivion, officially choosing Vaquer as her WrestleMania opponent."
+          },
+          {
+            "date": "March 2026",
+            "event": "Raw (ongoing)",
+            "description": "The rivalry intensifies with Vaquer defending her title against other challengers while keeping one eye on Morgan. Iyo Sky has been involved in storylines surrounding the title picture."
+          }
+        ],
+        "whyItMatters": "This match represents a fascinating clash of paths to the top. Stephanie Vaquer spent over a decade grinding through Mexico's CMLL, Japan's NJPW and Stardom, and various international promotions before finally getting her chance in WWE -- where she rapidly became a double NXT champion and then the Women's World Champion. Liv Morgan, by contrast, was discovered by WWE at age 20 and has spent her entire career within the company's system. Vaquer's accusation that Morgan 'hasn't earned her position' cuts to the heart of wrestling's meritocracy debate. With Morgan backed by The Judgment Day and the dangerous Dominik Mysterio at ringside, Vaquer faces not just a challenger but an entire faction. This is a story about respect, legitimacy, and what it truly means to earn your spot."
+      }
+    },
+
+    "match5_lesnar_vs_femi": {
+      "title": "Brock Lesnar vs. Oba Femi",
+      "wrestler1": "brock_lesnar",
+      "wrestler2": "oba_femi",
+      "championship": null,
+      "stipulation": "Singles match (non-title)",
+      "expectedNight": "TBD",
+      "stakes": [
+        "Generational clash: legendary veteran vs. undefeated rising star",
+        "Oba Femi's undefeated main roster singles record on the line",
+        "Potential passing of the torch moment if Femi defeats Lesnar",
+        "Brock Lesnar's possible retirement tour -- could be one of his final matches",
+        "Proving ground: can Femi hang with the most dangerous man in WWE history?"
+      ],
+      "storylineBuildup": {
+        "summary": "The seeds for this match were planted at the 2026 Royal Rumble when Brock Lesnar eliminated Oba Femi from the match, establishing The Beast's dominance over the rising star. Since debuting on the main roster in December 2025, Femi had been undefeated and mowing down everyone in his path. On the March 16 episode of Raw, after a segment involving Seth Rollins and Paul Heyman, Lesnar appeared and issued an Open Challenge for WrestleMania 42. Oba Femi brazenly answered the call, storming the ring and executing a shocking Fall From Grace that left Lesnar flat on the mat -- an image rarely seen of The Beast Incarnate. Femi stood over Lesnar with his foot on his chest, pointing at the WrestleMania sign, in a moment that sent shockwaves through the WWE Universe.",
+        "keyMoments": [
+          {
+            "date": "January 6, 2026",
+            "event": "NXT New Year's Evil",
+            "description": "Oba Femi successfully defends the NXT Championship against Leon Slater, then leaves the title belt in the ring. The next day, Femi officially vacates the NXT Championship, ending his reign to move to the main roster."
+          },
+          {
+            "date": "January 31, 2026",
+            "event": "Royal Rumble",
+            "description": "Oba Femi enters the Royal Rumble and dominates several competitors before being eliminated by Brock Lesnar. This elimination plants the seeds for their WrestleMania rivalry."
+          },
+          {
+            "date": "February-March 2026",
+            "event": "Raw / SmackDown",
+            "description": "Femi continues his undefeated tear on the main roster, defeating everyone placed in front of him and establishing himself as an unstoppable force."
+          },
+          {
+            "date": "March 16, 2026",
+            "event": "Monday Night Raw",
+            "description": "Seth Rollins and Paul Heyman are involved in a segment. Heyman reveals Brock Lesnar, who dismantles Rollins' allies. Lesnar issues an Open Challenge for WrestleMania 42. Oba Femi answers, hits the ring, and drops Lesnar with a devastating Fall From Grace. Femi places his foot on Lesnar's chest and points at the WrestleMania sign. The match is official."
+          }
+        ],
+        "whyItMatters": "This is a classic 'passing the torch' match at WWE's grandest stage. Brock Lesnar is 48 years old and reportedly on a retirement tour -- a generational talent who ended The Undertaker's WrestleMania streak, conquered UFC, and dominated WWE for over two decades. Oba Femi is 27, undefeated, and represents the future of WWE -- a 310-pound Nigerian powerhouse who was a championship-level shot putter before becoming a dominant NXT champion. A victory over Lesnar at WrestleMania would be the defining moment that launches Femi into the main event scene permanently. Reports indicate Lesnar is open to putting over younger talent, making this potentially one of the most significant star-making moments in recent WrestleMania history."
+      }
+    }
+  }
+}

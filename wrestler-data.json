@@ -1,0 +1,641 @@
+{
+  "lastUpdated": "2026-03-19",
+  "wrestlers": [
+    {
+      "id": "cm-punk",
+      "name": "CM Punk",
+      "realName": "Phil Brooks",
+      "nickname": "The Best in the World",
+      "brand": "Raw",
+      "theme": {
+        "songName": "Cult of Personality (Remastered 2023)",
+        "artist": "Living Colour",
+        "producer": "Living Colour (remastered directly by the band, bypassing the original record label)",
+        "inUseSince": "2023-11-25",
+        "notes": "Originally used from 2011-2014. Remastered version debuted at Survivor Series: WarGames 2023. Payments go directly to Living Colour rather than their former record label. Living Colour performed it live at WrestleMania 41.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/album/4NAqHEVzTd7HfRSVo5snhC",
+          "appleMusic": "https://bit.ly/lc-cult-2023",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=CM+Punk+Cult+of+Personality+WWE+entrance+theme+2023+remastered"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "CM Punk! CM Punk! CM Punk!",
+          "when": "During entrance and throughout matches",
+          "description": "The classic call-and-response name chant, one of the loudest in WWE"
+        },
+        {
+          "chant": "Best in the World!",
+          "when": "During promos and after big moments",
+          "description": "Fans affirming his self-proclaimed title"
+        },
+        {
+          "chant": "Singing along to 'Cult of Personality'",
+          "when": "During entrance",
+          "description": "Crowds sing the 'Look in my eyes, what do you see?' opening lyrics"
+        }
+      ],
+      "catchphrases": [
+        "It's clobberin' time!",
+        "Best in the World",
+        "I am the best wrestler in the world. I've been the best ever since Day One.",
+        "Do I have everybody's attention now?"
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "It's Clobberin' Time",
+          "description": "Shouts 'It's clobberin' time!' while on the entrance ramp, often while looking straight ahead with arms slightly raised. Borrowed from The Thing (Fantastic Four)."
+        },
+        {
+          "name": "Cross-Legged Sit",
+          "description": "Sits cross-legged in the center of the ring during promos or taunts, projecting supreme confidence."
+        },
+        {
+          "name": "Crossed Fists / X Taunt",
+          "description": "Crosses his taped fists in front of him as a signature taunt before hitting the GTS (Go To Sleep)."
+        },
+        {
+          "name": "GTS Signal",
+          "description": "Raises an opponent onto his shoulders and signals the Go To Sleep finisher, the crowd roars in anticipation."
+        },
+        {
+          "name": "Blowing a Kiss",
+          "description": "Occasionally blows a kiss to the crowd or opponents as a taunt."
+        }
+      ]
+    },
+    {
+      "id": "roman-reigns",
+      "name": "Roman Reigns",
+      "realName": "Leati Joseph Anoaʻi",
+      "nickname": "The Tribal Chief / The Head of the Table / The OTC (Original Tribal Chief)",
+      "brand": "SmackDown",
+      "theme": {
+        "songName": "Head of the Table",
+        "artist": "def rebel",
+        "producer": "def rebel (DJDTP)",
+        "inUseSince": "2021-04-30",
+        "notes": "Debuted on SmackDown April 30, 2021. Replaced 'The Truth Reigns' (modified Shield theme). An orchestral version was used at SummerSlam 2024. Features dramatic tribal-sounding instrumentation.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/6uDbAF84weCrivI4T0QXbx",
+          "appleMusic": "https://music.apple.com/us/album/wwe-head-of-the-table-roman-reigns-single/1565889945",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Roman+Reigns+Head+of+the+Table+entrance+theme+WWE+official"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "OTC! OTC! OTC!",
+          "when": "During entrance and throughout matches",
+          "description": "Stands for 'Original Tribal Chief' - the crowd's affirmation of Reigns as the one true Tribal Chief"
+        },
+        {
+          "chant": "Acknowledge him! / Acknowledge me!",
+          "when": "During promos",
+          "description": "Crowd echoes Reigns' signature demand for acknowledgment"
+        },
+        {
+          "chant": "Tribal Chief! Tribal Chief!",
+          "when": "During entrance and big moments",
+          "description": "Affirming his character as The Tribal Chief of the Bloodline"
+        },
+        {
+          "chant": "Ucey! / Uce!",
+          "when": "During Bloodline segments",
+          "description": "Samoan term of endearment used within the Bloodline faction"
+        }
+      ],
+      "catchphrases": [
+        "Acknowledge me.",
+        "I'm the Tribal Chief.",
+        "I'm the Head of the Table.",
+        "Smash or stacked.",
+        "I am the greatest of all time."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "Superman Punch Cock",
+          "description": "Cocks his fist and lets out a roar before delivering the Superman Punch, crowds roar along with him."
+        },
+        {
+          "name": "Spear Setup",
+          "description": "Gets in a crouching position in the corner, stalking his opponent before exploding with a Spear."
+        },
+        {
+          "name": "Arms Raised / 'Acknowledge Me' Pose",
+          "description": "Stands on the turnbuckle or in the center of the ring with arms raised, demanding acknowledgment from the audience."
+        },
+        {
+          "name": "One Finger Raise",
+          "description": "Holds up one finger to signify he is the one and only Tribal Chief."
+        }
+      ]
+    },
+    {
+      "id": "cody-rhodes",
+      "name": "Cody Rhodes",
+      "realName": "Cody Garrett Runnels",
+      "nickname": "The American Nightmare",
+      "brand": "SmackDown",
+      "theme": {
+        "songName": "Kingdom",
+        "artist": "Downstait",
+        "producer": "Downstait (Zack Call, Justin Call, Isaiah Zwick, Sean Arata)",
+        "inUseSince": "2016 (indie circuit); 2022 (WWE return at WrestleMania 38)",
+        "notes": "Cody insisted WWE use this song as a condition of his return. After WrestleMania XL (2024), it topped the iTunes US rock charts and surpassed 50 million Spotify streams. Entrance begins with Cody saying 'Wrestling has more than one royal family.' The 'WOAH-OH' section has become the loudest crowd singalong moment in modern WWE.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/playlist/74usHDGrM7PdSoXmwY9Np5",
+          "appleMusic": "https://music.apple.com/us/album/kingdom/",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Cody+Rhodes+Kingdom+Downstait+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "WOAH-OH-OH-OH!",
+          "when": "During entrance - the signature melodic hook in 'Kingdom'",
+          "description": "The entire arena sings the 'WOAH' from his theme in unison. This has become the loudest crowd singalong in modern WWE, with 12,000+ fans singing even after the music stops. At Backlash France, it was described as the loudest 'WOAH' ever."
+        },
+        {
+          "chant": "Cody! Cody! Cody!",
+          "when": "Throughout matches and promos",
+          "description": "Standard name chant showing crowd support"
+        },
+        {
+          "chant": "Finish the story!",
+          "when": "Used during his WrestleMania XL build (2024)",
+          "description": "Crowd urging Cody to complete his quest to win the Undisputed WWE Championship, which he did at WrestleMania XL."
+        },
+        {
+          "chant": "You deserve it!",
+          "when": "After title wins",
+          "description": "Crowd affirming that Cody earned his championship moment"
+        },
+        {
+          "chant": "American Nightmare!",
+          "when": "During promos and entrances",
+          "description": "Chanting his moniker"
+        }
+      ],
+      "catchphrases": [
+        "Wrestling has more than one royal family.",
+        "I need to finish the story.",
+        "What do you want to talk about?",
+        "The American Nightmare, Cody Rhodes."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "WOAH Singalong",
+          "description": "The crowd sings the 'WOAH' from 'Kingdom' and Cody pauses on the ramp to soak it in, sometimes conducting the crowd."
+        },
+        {
+          "name": "Cross Rhodes Setup",
+          "description": "Drops down and pounds the mat before delivering the Cross Rhodes finisher."
+        },
+        {
+          "name": "Weight Belt Throw",
+          "description": "Removes his signature American Nightmare weight belt and tosses it to a lucky fan in the crowd during his entrance."
+        },
+        {
+          "name": "Bidet / Rope Pose",
+          "description": "Stands on the second rope and poses for the crowd, soaking in the reaction."
+        }
+      ]
+    },
+    {
+      "id": "randy-orton",
+      "name": "Randy Orton",
+      "realName": "Randal Keith Orton",
+      "nickname": "The Viper / The Apex Predator / The Legend Killer",
+      "brand": "SmackDown",
+      "theme": {
+        "songName": "Voices",
+        "artist": "Rev Theory (vocals by Rich Luzzi)",
+        "producer": "Jim Johnston & Rev Theory",
+        "inUseSince": "2008-05",
+        "notes": "One of the longest-running and most iconic entrance themes in WWE history. Rev Theory performed it live at WrestleMania XXX (2014). The crowd frequently sings along with the opening lyrics. Replaced 'Burn In My Light' by Mercy Drive.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/4efaOZQDP1XwApNaRc7UYu",
+          "appleMusic": "https://music.apple.com/us/album/wwe-voices-randy-orton-feat-rev-theory-single/440424764",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Randy+Orton+Voices+Rev+Theory+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Singing 'I hear voices in my head, they council me, they understand, they talk to me!'",
+          "when": "During entrance",
+          "description": "Entire arenas sing along with the opening lyrics of 'Voices'. One of the most sing-along-friendly themes in WWE."
+        },
+        {
+          "chant": "RKO! RKO! RKO!",
+          "when": "When Randy is stalking his opponent or after hitting the RKO",
+          "description": "Fans chant for 'the most devastating move in all of sports entertainment' - the three most dangerous letters in WWE."
+        },
+        {
+          "chant": "Randy! Randy! Randy!",
+          "when": "General support chant",
+          "description": "Standard name chant"
+        },
+        {
+          "chant": "One more time!",
+          "when": "After hitting an RKO, crowd wants another",
+          "description": "Fans calling for additional RKOs"
+        }
+      ],
+      "catchphrases": [
+        "I hear voices in my head...",
+        "Stupid! Stupid!",
+        "There is no 'out of nowhere.' I see it all.",
+        "RKO outta nowhere!"
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "The Viper Pose",
+          "description": "Stands on the turnbuckle with arms outstretched, head tilted, soaking in the crowd's singing of 'Voices'."
+        },
+        {
+          "name": "Mat Pound / Viper Coil",
+          "description": "Gets low to the mat and pounds it repeatedly while stalking his opponent before the RKO, crowd goes wild in anticipation."
+        },
+        {
+          "name": "RKO Outta Nowhere",
+          "description": "The RKO can come from any position at any time, and the crowd erupts every time. Fans mimic the jumping cutter motion."
+        },
+        {
+          "name": "Slow Methodical Entrance",
+          "description": "Orton's entrance is notably slow and deliberate, posing on the ropes while the crowd sings 'Voices'."
+        }
+      ]
+    },
+    {
+      "id": "rhea-ripley",
+      "name": "Rhea Ripley",
+      "realName": "Demi Bennett",
+      "nickname": "Mami / The Eradicator / The Nightmare",
+      "brand": "Raw",
+      "theme": {
+        "songName": "Demon In Your Dreams",
+        "artist": "def rebel feat. Motionless In White (Chris Motionless on vocals)",
+        "producer": "def rebel",
+        "inUseSince": "2022-05-09",
+        "notes": "Features industrial metal instrumentation with glitchy production. Motionless In White performed it live at WrestleMania XL for Ripley's entrance. Replaced her previous theme 'Brutality' by CFO$ feat. Ash Costello (used 2017-2022).",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/5pngP9Zq5dv0jrdvDk08ou",
+          "appleMusic": "https://music.apple.com/us/album/wwe-demon-in-your-dreams-rhea-ripley-single/",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Rhea+Ripley+Demon+In+Your+Dreams+WWE+entrance+theme+Motionless+In+White"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Mami! Mami! Mami!",
+          "when": "During entrance, matches, and promos",
+          "description": "Her most iconic crowd chant. Fans chant 'Mami' so loudly it can drown out other segments. Ripley once worried Mami chants would overpower Zelina Vega's moment at Backlash."
+        },
+        {
+          "chant": "We love Mami!",
+          "when": "During promos and special moments",
+          "description": "Extended version of the Mami chant showing adoration"
+        },
+        {
+          "chant": "Rhea! Rhea! Rhea!",
+          "when": "During matches",
+          "description": "Standard name chant"
+        },
+        {
+          "chant": "This is awesome!",
+          "when": "During her big match moments",
+          "description": "General appreciation chant during standout matches"
+        },
+        {
+          "chant": "Mommy! / Step on me!",
+          "when": "From overly enthusiastic fans",
+          "description": "Some audience members chant variations of 'Mommy' as a play on her 'Mami' persona"
+        }
+      ],
+      "catchphrases": [
+        "Mami is ALWAYS on top.",
+        "I am your Mami.",
+        "Now you will rest... in... peace.",
+        "Welcome to the era of Mami."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "The Stomp",
+          "description": "Performs a powerful signature stomp on the entrance ramp that triggers pyro/visual effects on the Titantron (demon wings graphic). So iconic that anyone replicating it is assumed to be mimicking Ripley."
+        },
+        {
+          "name": "Demon Wings Pose",
+          "description": "After the stomp, a fiery purple background with white demon wings appears on the Titantron as she walks to the ring."
+        },
+        {
+          "name": "Flexing / Power Pose",
+          "description": "Frequently flexes her muscles and strikes power poses, showcasing her physique and dominance."
+        },
+        {
+          "name": "Riptide Setup",
+          "description": "Signals the Riptide finisher by hoisting opponents onto her shoulders, drawing a huge crowd pop."
+        }
+      ]
+    },
+    {
+      "id": "jade-cargill",
+      "name": "Jade Cargill",
+      "realName": "Jade Cargill",
+      "nickname": "That Bitch / The Storm",
+      "brand": "SmackDown",
+      "theme": {
+        "songName": "A Storm Is Coming",
+        "artist": "def rebel",
+        "producer": "def rebel",
+        "inUseSince": "2024-01-27",
+        "notes": "Debuted at the 2024 Royal Rumble, her first WWE appearance. Entrance begins with her declaring 'A storm is coming.' Inspired by Storm from X-Men. Previously used 'Epic' by Christone Ingram & Nick Goldston in AEW.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/1hXtTWyXxHO9xJjb8npz93",
+          "appleMusic": "https://music.apple.com/us/album/wwe-a-storm-is-coming-jade-cargill-single/1740626783",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Jade+Cargill+A+Storm+Is+Coming+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Jade! Jade! Jade!",
+          "when": "During entrance and matches",
+          "description": "Standard name chant"
+        },
+        {
+          "chant": "That bitch! That bitch!",
+          "when": "During promos, particularly heel segments",
+          "description": "Echoing her AEW-era catchphrase that she brought to WWE after winning the Women's Championship"
+        },
+        {
+          "chant": "Storm is coming!",
+          "when": "During entrance",
+          "description": "Fans echo the opening line of her entrance theme"
+        }
+      ],
+      "catchphrases": [
+        "I'm that bitch!",
+        "A storm is coming.",
+        "I'm nothing less than a storm.",
+        "These bitches..."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "Storm Pose / Double Bicep Flex",
+          "description": "Strikes a signature double biceps pose on the entrance ramp as fireworks explode. Inspired by Storm from X-Men."
+        },
+        {
+          "name": "Storm Cape Entrance",
+          "description": "Enters wearing a flowing cape and headdress inspired by Storm from X-Men, adding an air of regality."
+        },
+        {
+          "name": "Jaded Setup",
+          "description": "Signals her Jaded finisher (spinning sit-out powerbomb), crowd pops in anticipation."
+        }
+      ]
+    },
+    {
+      "id": "liv-morgan",
+      "name": "Liv Morgan",
+      "realName": "Gionna Daddio",
+      "nickname": "Liv Morgan Revenge Tour",
+      "brand": "Raw",
+      "theme": {
+        "songName": "Liv Gone Mad",
+        "artist": "def rebel",
+        "producer": "def rebel",
+        "inUseSince": "2022-12-16",
+        "notes": "Her current solo entrance theme. She also enters with The Judgment Day faction to 'The Other Side' by Alter Bridge. Previous theme was 'Watch Me' by def rebel. Has been a two-time Women's World Champion, first-ever four-time Women's Tag Team Champion, and first-ever Women's Crown Jewel Champion.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/4Wt7aiVdOhpQ6s5IVgUHSy",
+          "appleMusic": "https://music.apple.com/us/album/wwe-liv-gone-mad-liv-morgan-single/1657277126",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Liv+Morgan+Liv+Gone+Mad+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Liv! Liv! Liv!",
+          "when": "During entrance and matches",
+          "description": "Standard name chant"
+        },
+        {
+          "chant": "You deserve it!",
+          "when": "After title wins",
+          "description": "Crowd affirming her championship moments"
+        },
+        {
+          "chant": "Revenge Tour!",
+          "when": "During promos related to her revenge storyline",
+          "description": "Referencing the Liv Morgan Revenge Tour against Rhea Ripley"
+        },
+        {
+          "chant": "Daddy Dom! / Dirty Dom!",
+          "when": "During segments involving Dominik Mysterio",
+          "description": "Crowd teasing the Liv Morgan / Dominik Mysterio relationship storyline"
+        }
+      ],
+      "catchphrases": [
+        "It's Liv Morgan Revenge Tour time.",
+        "If you don't like it, you can cry about it.",
+        "Liv Morgan Revenge Tour 2.",
+        "Daddy Dom!"
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "Revenge Tour Pose",
+          "description": "Raises championship belt overhead while striking a confident pose, often paired with a smirk or laugh."
+        },
+        {
+          "name": "ObLIVion Setup",
+          "description": "Signals her ObLIVion finisher (Code Blue / reverse STO), fans react in anticipation."
+        },
+        {
+          "name": "Judgment Day Entrance",
+          "description": "When entering with The Judgment Day, performs the faction's signature group pose."
+        }
+      ]
+    },
+    {
+      "id": "stephanie-vaquer",
+      "name": "Stephanie Vaquer",
+      "realName": "Stephanie Vaquer",
+      "nickname": "La Primera (The First)",
+      "brand": "Raw",
+      "theme": {
+        "currentSong": {
+          "songName": "New Theme (produced by Def Rebel)",
+          "artist": "def rebel",
+          "producer": "def rebel",
+          "inUseSince": "2026-02-02",
+          "notes": "Debuted on RAW in Philadelphia. Features some signature guitars from her old theme but sounds notably different. Fans and the original theme's creator were vocal about preferring the old theme. The crowd greeted the new music with relative silence."
+        },
+        "previousSong": {
+          "songName": "Bury Me",
+          "artist": "Chris Egert (of the band In Virgo)",
+          "inUseSince": "2024 (NXT) through 2026-02-01",
+          "notes": "A fan-favorite theme originally written as a boutique music cue for a publisher. Vaquer loved the theme and personally went to Shawn Michaels to keep it when WWE initially wanted to change it. Fans are petitioning for its return."
+        },
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/0eN39DyaXYuBULbYYl9eCf",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Stephanie+Vaquer+WWE+entrance+theme+2026"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "La Primera! La Primera!",
+          "when": "During entrance and after victories",
+          "description": "Fans chant her iconic nickname meaning 'The First.' Hearing the crowd chant it has been one of her most emotional moments."
+        },
+        {
+          "chant": "Vaquer! Vaquer!",
+          "when": "During matches",
+          "description": "Standard name chant"
+        },
+        {
+          "chant": "We want Bury Me! / Bring it back!",
+          "when": "Since theme change in February 2026",
+          "description": "Fans protesting the change from her original beloved theme 'Bury Me'"
+        }
+      ],
+      "catchphrases": [
+        "I am La Primera.",
+        "La Primera means champion."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "La Primera Pose",
+          "description": "Strikes a confident pose on the entrance ramp, embracing her 'First' moniker."
+        },
+        {
+          "name": "Lucha-Inspired Entrance",
+          "description": "Incorporates elements of her lucha libre background into her entrance movements and ring work."
+        }
+      ],
+      "titleHistory": "Current WWE Women's World Champion (as of March 2026). First South American woman to hold the title. Also won the inaugural Women's Crown Jewel Championship at Crown Jewel 2025."
+    },
+    {
+      "id": "oba-femi",
+      "name": "Oba Femi",
+      "realName": "Jordan Obanubi",
+      "nickname": "The Ruler",
+      "brand": "SmackDown / NXT (called up to main roster 2025)",
+      "theme": {
+        "songName": "Hands of Fate",
+        "artist": "def rebel",
+        "producer": "def rebel",
+        "inUseSince": "2024-03-19",
+        "notes": "A booming, dramatic theme that Femi dances to during his entrance. The theme carried over from NXT to the main roster. Femi debuted on SmackDown as a surprise, and the crowd instantly adopted the 'Oooba' chants.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/2JsnG08UfdFsYRYt0j1i7P",
+          "appleMusic": "https://music.apple.com/gb/album/wwe-hands-of-fate-oba-femi-single/1735356480",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Oba+Femi+Hands+of+Fate+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Oooba... Oooba... Oooba!",
+          "when": "During entrance and matches",
+          "description": "The crowd elongates his name in a rhythmic, tribal-sounding chant. Erupted spontaneously during his surprise SmackDown debut."
+        },
+        {
+          "chant": "Oba! Oba! Oba!",
+          "when": "During matches and after big power moves",
+          "description": "Short rapid-fire version of the name chant"
+        },
+        {
+          "chant": "The Ruler! The Ruler!",
+          "when": "During promos",
+          "description": "Fans echoing his self-proclaimed title"
+        }
+      ],
+      "catchphrases": [
+        "I am The Ruler.",
+        "Bow before The Ruler.",
+        "Nobody can stop what's coming."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "The War Dance",
+          "description": "Oba dances his way to the ring in rhythm with his theme music. He described it as happening organically: 'I war danced my way to the ring, killed my opponents, and it's stuck ever since.' The crowd vibes along with him."
+        },
+        {
+          "name": "Power Display",
+          "description": "Frequently demonstrates his immense physical strength during entrances and matches, drawing gasps and cheers."
+        },
+        {
+          "name": "Ruler's Decree Pose",
+          "description": "Raises his arms overhead in a dominating pose after victories, establishing his 'Ruler' persona."
+        }
+      ],
+      "titleHistory": "Two-time NXT Champion (won January 2025, lost September 2025, regained December 2025). Debuted on main roster at Royal Rumble 2025."
+    },
+    {
+      "id": "brock-lesnar",
+      "name": "Brock Lesnar",
+      "realName": "Brock Edward Lesnar",
+      "nickname": "The Beast Incarnate / The Conqueror",
+      "brand": "Raw (part-time, returned February 2026)",
+      "theme": {
+        "songName": "Next Big Thing (V2)",
+        "artist": "Jim Johnston",
+        "producer": "Jim Johnston",
+        "inUseSince": "2013 (V2 remix); original V1 used 2002-2004 and 2012",
+        "notes": "An aggressive, fast-paced instrumental theme with no lyrics. One of the most recognizable entrance themes in WWE. The V2 version is a remixed, heavier version of the original. Lesnar returned to WWE in February 2026 after a hiatus, with WrestleMania 42 and SummerSlam 2026 appearances planned. Retirement rumors circulate for SummerSlam 2026.",
+        "streamingLinks": {
+          "spotify": "https://open.spotify.com/track/04bTkYXhpWoyvPI1jGK5JI",
+          "appleMusic": "https://music.apple.com/us/album/next-big-thing-brock-lesnars-theme/",
+          "youtubeSearch": "https://www.youtube.com/results?search_query=Brock+Lesnar+Next+Big+Thing+WWE+entrance+theme"
+        }
+      },
+      "crowdChants": [
+        {
+          "chant": "Suplex City! Suplex City!",
+          "when": "During matches, especially when Lesnar is delivering multiple suplexes",
+          "description": "One of the most iconic chants in modern WWE, born from Lesnar's dominant style of repeated German suplexes. Fans chant it in anticipation and during suplex barrages."
+        },
+        {
+          "chant": "Brock! Brock! Brock!",
+          "when": "During entrance and matches",
+          "description": "Standard name chant, delivered in a deep, guttural tone matching his intensity"
+        },
+        {
+          "chant": "Eat! Sleep! Conquer! Repeat!",
+          "when": "During entrance or after dominant victories",
+          "description": "Fans echoing his famous motto"
+        },
+        {
+          "chant": "Holy shit! Holy shit!",
+          "when": "After particularly devastating moves or shocking moments",
+          "description": "Crowd reaction to Lesnar's most extreme displays of power"
+        }
+      ],
+      "catchphrases": [
+        "Eat. Sleep. Conquer. Repeat.",
+        "Suplex City, bitch!",
+        "Let's! Do! This!?",
+        "I don't give a shit about your dreams."
+      ],
+      "signatureTauntsAndGestures": [
+        {
+          "name": "Bouncing on the Spot",
+          "description": "Lesnar bounces and hops in place on the entrance ramp and in the ring, psyching himself up like an MMA fighter before a bout."
+        },
+        {
+          "name": "Paul Heyman Introduction",
+          "description": "Accompanied by Paul Heyman who introduces him: 'Ladies and gentlemen, my name is Paul Heyman, and I am the advocate for the REIGNING, DEFENDING, UNDISPUTED...' The crowd joins in. (Note: Heyman's current allegiance is with Roman Reigns, so Lesnar may enter solo.)"
+        },
+        {
+          "name": "Turnbuckle Mount",
+          "description": "Climbs the turnbuckle and raises his fists, looking out at the crowd with an intense, primal expression."
+        },
+        {
+          "name": "F5 Taunt",
+          "description": "Hoists opponents onto his shoulders for the F5, the crowd pops huge in anticipation. Sometimes circles the ring before delivering it."
+        },
+        {
+          "name": "Glove Removal",
+          "description": "Removes his MMA-style gloves during matches to signal he's getting serious, usually followed by devastating offense."
+        }
+      ],
+      "status2026": "Returned to WWE Raw on February 23, 2026. Issued a WrestleMania 42 challenge. Positioned for major role in 2026 storylines. Retirement at SummerSlam 2026 in Minneapolis has been rumored but not confirmed."
+    }
+  ]
+}

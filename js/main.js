@@ -57,14 +57,21 @@ function initNav() {
 
 // ===== ACTIVE NAV LINK =====
 function setActiveNav() {
-  const path = window.location.pathname.toLowerCase();
-  // Handle both /matches.html and /matches and local file paths
-  let page = path.split('/').pop().replace('.html', '').replace('.htm', '') || 'index';
-  if (page === '' || page === '/' ) page = 'index';
+  const path = window.location.pathname.toLowerCase().replace(/\/+$/, '');
+  // Extract page name from clean URLs (/matches/, /matches/index.html, /matches.html)
+  const segments = path.split('/').filter(Boolean);
+  let page = segments[segments.length - 1] || 'index';
+  page = page.replace('.html', '').replace('.htm', '');
+  if (page === 'index') {
+    // Check if we're in a subfolder (e.g., /matches/index.html -> matches)
+    page = segments.length >= 2 ? segments[segments.length - 2] : 'index';
+  }
 
   document.querySelectorAll('.nav-links a').forEach(a => {
-    const href = (a.getAttribute('href') || '').replace('.html', '').toLowerCase();
-    const linkPage = href === '' ? 'index' : href;
+    const href = (a.getAttribute('href') || '').toLowerCase();
+    // Extract link target: "../matches/" -> "matches", "./" -> "index", "matches/" -> "matches"
+    const hrefClean = href.replace(/^\.\.\//, '').replace(/^\.\//, '').replace(/\/+$/, '').replace('.html', '');
+    const linkPage = hrefClean === '' ? 'index' : hrefClean;
 
     // Match current page to nav link
     if (linkPage === page) {
