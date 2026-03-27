@@ -232,6 +232,56 @@ const WRESTLERS = {
       "Answered Brock Lesnar's WrestleMania open challenge"
     ]
   },
+  "aj-lee": {
+    name: "AJ Lee",
+    nickname: "The Hybrid Athlete",
+    aliases: "The Geek Goddess, April Jeanette Mendez",
+    brand: "Raw",
+    alignment: "Face",
+    alignmentDesc: "Beloved returning legend",
+    isChampion: true,
+    title: "Women's Intercontinental Champion",
+    img: "https://www.wwe.com/f/styles/talent_champion_lg/public/2026/03/Punk_AJ_-02282026rf_663_Profile.png",
+    about: "AJ Lee is one of the most iconic women in WWE history. At just 5'2\", she dominated the Divas division with her energetic, high-flying, lucha-inspired style and unmatched charisma. She held the Divas Championship three times, including a record-breaking 295-day reign. After retiring in 2015, she returned to WWE over a decade later alongside her husband CM Punk and has been on an absolute tear -- capturing the Women's Intercontinental Championship and proving she's better than ever.",
+    finisher: "Black Widow",
+    finisherDesc: "An octopus-style submission hold. Wraps around her opponent like a spider and cranks the neck. Also uses the Shining Wizard (running knee to a kneeling opponent).",
+    entranceTheme: "Light It Up",
+    entranceArtist: "def rebel",
+    spotifyId: null,
+    entranceVideo: null,
+    highlights: [
+      "Current Women's Intercontinental Champion",
+      "3x Divas Champion (record 295-day reign)",
+      "Returned to WWE after 11+ year absence",
+      "2x Diva of the Year (2012, 2014)",
+      "Married to CM Punk"
+    ]
+  },
+  "becky-lynch": {
+    name: "Becky Lynch",
+    nickname: "The Man",
+    aliases: "Big Time Becks, The Lass Kicker",
+    brand: "Raw",
+    alignment: "Heel",
+    alignmentDesc: "Villain aligned with Seth Rollins",
+    isChampion: false,
+    title: null,
+    img: "https://www.wwe.com/f/styles/talent_champion_lg/public/all/2024/03/Becky_Lynch_PROFILE--0a8b02ec3d3e203b817d3b7674bd0a9e.png",
+    about: "Becky Lynch is one of the most popular and accomplished women in WWE history. From Dublin, Ireland, she became a mainstream crossover star as \"The Man\" -- winning the 2019 Royal Rumble and main-eventing WrestleMania 35 against Ronda Rousey, becoming the first woman to main event WrestleMania. She's a Grand Slam Champion and has held titles across every brand. Now aligned with her real-life husband Seth Rollins, she's turned villain and is desperate to reclaim championship gold.",
+    finisher: "Dis-arm-her",
+    finisherDesc: "A devastating armbar submission that hyperextends the elbow. Also uses the Man-handle Slam (a pump-handle slam).",
+    entranceTheme: "Celtic Invasion",
+    entranceArtist: "CFO$",
+    spotifyId: null,
+    entranceVideo: null,
+    highlights: [
+      "First woman to main event WrestleMania (WM 35)",
+      "Grand Slam Champion (2023)",
+      "2019 Women's Royal Rumble winner",
+      "7x champion across multiple titles",
+      "Former Women's Intercontinental Champion"
+    ]
+  },
   "brock-lesnar": {
     name: "Brock Lesnar",
     nickname: "The Beast Incarnate",
@@ -365,6 +415,23 @@ const MATCHES = [
       { id: "B04v0CY9kw0", start: 130, end: 162, label: "The Challenge", title: "Oba Femi Confronts Brock Lesnar", desc: "Oba answers Brock's open WrestleMania challenge. Two massive forces stand face to face. You can feel the tension." },
       { id: "B04v0CY9kw0", start: 170, end: 183, label: "The Iconic Moment", title: "Oba Points at the WrestleMania Sign", desc: "After destroying Brock with Fall From Grace, Oba stands over The Beast with his foot on Brock's chest and points to the WrestleMania sign. A star is born." }
     ]
+  },
+  {
+    id: "match-6",
+    wrestler1: "aj-lee",
+    wrestler2: "becky-lynch",
+    championship: "Women's Intercontinental Championship",
+    isTitleMatch: true,
+    night: null,
+    bannerImg: "https://www.wwe.com/f/styles/wwe_16_9_xl/public/2026/03/20260306_WM42_StephLiv_MM_16x9_Date.jpg",
+    whyItMatters: "AJ Lee has had Becky Lynch's number <strong>every single time</strong> they've faced off. Mixed tag at Wrestlepalooza? AJ submitted Becky. WarGames at Survivor Series? AJ won again. The Women's Intercontinental Championship at Elimination Chamber? AJ made Becky tap. This is Becky Lynch's <strong>last chance at redemption</strong> -- on the grandest stage of them all. Can \"The Man\" finally solve the puzzle of a woman who returned after 11 years and has been absolutely unstoppable?",
+    storySoFar: "The rivalry ignited at Wrestlepalooza when AJ Lee and CM Punk faced Becky Lynch and Seth Rollins in a Mixed Tag Team match -- AJ submitted Becky to win. Their war continued at Survivor Series 2025 in WarGames, where AJ got the better of Becky again. Then at Elimination Chamber 2026, AJ Lee captured the Women's Intercontinental Championship by forcing Becky to submit <em>yet again.</em> After AJ successfully defended the title against Bayley on the March 16 episode of Raw, Becky Lynch launched a vicious post-match attack. Rather than back down, AJ challenged Becky to one more match -- this time for the title at WrestleMania. The stakes have never been higher.",
+    predictions: [
+      { label: "AJ Lee retains", wrestler: "AJ Lee" },
+      { label: "Becky Lynch wins", wrestler: "Becky Lynch" }
+    ],
+    feudSubtitle: "Can The Man finally conquer The Hybrid Athlete? Watch their war unfold.",
+    feudVideos: []
   }
 ];
 
