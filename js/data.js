@@ -158,7 +158,7 @@ const WRESTLERS = {
   },
   "liv-morgan": {
     name: "Liv Morgan",
-    nickname: "Liv Morgan Revenge Tour",
+    nickname: "",
     aliases: "The Jersey Girl",
     brand: "Raw",
     alignment: "Heel",
@@ -234,8 +234,8 @@ const WRESTLERS = {
   },
   "aj-lee": {
     name: "AJ Lee",
-    nickname: "The Hybrid Athlete",
-    aliases: "The Geek Goddess, April Jeanette Mendez",
+    nickname: "The Geek Goddess",
+    aliases: "The Hybrid Athlete, April Jeanette Mendez",
     brand: "Raw",
     alignment: "Face",
     alignmentDesc: "Beloved returning legend",
@@ -247,8 +247,8 @@ const WRESTLERS = {
     finisherDesc: "An octopus-style submission hold. Wraps around her opponent like a spider and cranks the neck. Also uses the Shining Wizard (running knee to a kneeling opponent).",
     entranceTheme: "Light It Up",
     entranceArtist: "def rebel",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "5D3a3lsgr64Z58OmK2Gggs",
+    entranceVideo: { id: "D3X4Ydm-MD0", start: 217, end: 298, label: "Entrance", desc: "The Geek Goddess is BACK. AJ Lee's return entrance -- over a decade later and the crowd still goes crazy. Listen for the pop!" },
     highlights: [
       "Current Women's Intercontinental Champion",
       "3x Divas Champion (record 295-day reign)",
@@ -272,8 +272,8 @@ const WRESTLERS = {
     finisherDesc: "A devastating armbar submission that hyperextends the elbow. Also uses the Man-handle Slam (a pump-handle slam).",
     entranceTheme: "Celtic Invasion",
     entranceArtist: "CFO$",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "54KTIaCe10JWSbkNF6BUJB",
+    entranceVideo: { id: "h-SuPOjbbyM", start: 0, end: 49, label: "Entrance", desc: "\"The Man\" Becky Lynch makes her entrance. One of the most iconic themes in WWE -- the crowd sings along every time." },
     highlights: [
       "First woman to main event WrestleMania (WM 35)",
       "Grand Slam Champion (2023)",
@@ -431,7 +431,10 @@ const MATCHES = [
       { label: "Becky Lynch wins", wrestler: "Becky Lynch" }
     ],
     feudSubtitle: "Can The Man finally conquer The Hybrid Athlete? Watch their war unfold.",
-    feudVideos: []
+    feudVideos: [
+      { id: "-ciHeeXLZe8", start: 7, end: 69, label: "The Attack", title: "Becky Lynch Attacks AJ Lee", desc: "After AJ successfully defends her title, Becky Lynch launches a vicious post-match attack. This is FAR from over." },
+      { id: "hm3XFZEt1cw", start: 47, end: 80, label: "It's Official", title: "WrestleMania Match Is Set", desc: "The WrestleMania match is made official. AJ Lee vs Becky Lynch for the Women's Intercontinental Championship. No more games." }
+    ]
   }
 ];
 
