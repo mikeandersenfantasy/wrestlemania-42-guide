@@ -170,7 +170,7 @@ document.addEventListener('DOMContentLoaded', function() {
       '<img class="w-card-portrait" src="' + w.img + '" alt="' + w.name + '">' +
       '<div class="w-card-overlay">' +
         '<h3>' + w.name + '</h3>' +
-        '<div class="nick">"' + w.nickname + '"</div>' +
+        (w.nickname ? '<div class="nick">"' + w.nickname + '"</div>' : '') +
         '<div class="w-card-badges">' +
           '<span class="w-badge ' + alignClass + '">' + w.alignment + '</span>' +
           (w.isChampion ? '<span class="w-badge champ">' + w.title + '</span>' : '') +
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
         '<div class="w-expanded-details">' +
           '<div>' +
             '<div class="w-expanded-name">' + w.name + '</div>' +
-            '<div class="w-expanded-nick">"' + w.nickname + '"</div>' +
+            (w.nickname ? '<div class="w-expanded-nick">"' + w.nickname + '"</div>' : '') +
             '<div class="w-expanded-tags">' +
               '<span class="w-badge ' + alignClass + '">' + w.alignmentDesc + '</span>' +
               '<span class="w-badge" style="background:rgba(255,255,255,0.08);color:var(--off-white)">' + w.brand + '</span>' +

@@ -18,6 +18,9 @@
 .vid-card{width:calc(25% - 18px);min-width:280px}
 @media(max-width:768px){.vid-card{width:calc(50% - 12px);min-width:0}}
 @media(max-width:480px){.vid-card{width:100%;min-width:0}}
+.vid-section-header{display:flex;align-items:center;gap:10px;font-size:1rem;font-weight:800;text-transform:uppercase;letter-spacing:2px;color:var(--wm-gold);margin:28px 0 16px;padding-bottom:10px;border-bottom:1px solid rgba(212,168,60,0.2)}
+.vid-section-icon{font-size:1.2rem}
+@media(max-width:480px){.vid-section-header{font-size:.85rem;margin:20px 0 12px}}
 </style>
 </head>
 <body>
@@ -129,26 +132,35 @@ document.addEventListener('DOMContentLoaded', function() {
       html += '<p class="section-subtitle mx-auto">' + match.feudSubtitle + '</p>';
     }
 
-    html += '</div><div class="vid-grid">';
+    html += '</div>';
 
-    // Entrance videos first (wrestler1 then wrestler2)
-    if (w1.entranceVideo) {
-      var ev1 = w1.entranceVideo;
-      html += buildVideoCard(ev1.id, ev1.start, ev1.label || 'Entrance', w1.name + ' -- "' + w1.entranceTheme + '" by ' + w1.entranceArtist, ev1.desc || '');
-    }
-    if (w2.entranceVideo) {
-      var ev2 = w2.entranceVideo;
-      html += buildVideoCard(ev2.id, ev2.start, ev2.label || 'Entrance', w2.name + ' -- "' + w2.entranceTheme + '" by ' + w2.entranceArtist, ev2.desc || '');
+    // Entrance videos section
+    var hasEntrances = w1.entranceVideo || w2.entranceVideo;
+    if (hasEntrances) {
+      html += '<div class="vid-section-header"><span class="vid-section-icon">&#127908;</span> Entrances</div>';
+      html += '<div class="vid-grid">';
+      if (w1.entranceVideo) {
+        var ev1 = w1.entranceVideo;
+        html += buildVideoCard(ev1.id, ev1.start, ev1.label || 'Entrance', w1.name + ' -- "' + w1.entranceTheme + '" by ' + w1.entranceArtist, ev1.desc || '');
+      }
+      if (w2.entranceVideo) {
+        var ev2 = w2.entranceVideo;
+        html += buildVideoCard(ev2.id, ev2.start, ev2.label || 'Entrance', w2.name + ' -- "' + w2.entranceTheme + '" by ' + w2.entranceArtist, ev2.desc || '');
+      }
+      html += '</div>';
     }
 
-    // Feud buildup videos
-    if (match.feudVideos) {
+    // Feud buildup videos section
+    if (match.feudVideos && match.feudVideos.length > 0) {
+      html += '<div class="vid-section-header"><span class="vid-section-icon">&#9889;</span> Feud Buildup</div>';
+      html += '<div class="vid-grid">';
       match.feudVideos.forEach(function(v) {
         html += buildVideoCard(v.id, v.start, v.label, v.title, v.desc);
       });
+      html += '</div>';
     }
 
-    html += '</div></div></section>';
+    html += '</div></section>';
     container.innerHTML += html;
   });
 });

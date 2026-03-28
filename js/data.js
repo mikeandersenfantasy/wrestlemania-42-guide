@@ -312,8 +312,8 @@ const WRESTLERS = {
     nickname: "Honorary Uce",
     aliases: "The Underdog from the Underground",
     brand: "SmackDown",
-    alignment: "Face",
-    alignmentDesc: "Beloved underdog fan favorite",
+    alignment: "Heel",
+    alignmentDesc: "Turning villain -- getting booed by fans",
     isChampion: true,
     title: "United States Champion",
     img: "https://www.wwe.com/f/styles/talent_champion_lg/public/2026/03/sami_zayn_profile%202.png",
@@ -322,8 +322,8 @@ const WRESTLERS = {
     finisherDesc: "Charges full speed at an opponent trapped in the corner and delivers a devastating running kick to the face. Simple but absolutely brutal.",
     entranceTheme: "Worlds Apart",
     entranceArtist: "CFO$",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "0vNkcvc0mldlTOoi4jpufh",
+    entranceVideo: { id: "G6vBx5M-x5s", start: 11, end: 60, label: "Entrance", desc: "Listen for the crowd singing along to Sami's iconic theme. One of the most fun singalong entrances in WWE!" },
     highlights: [
       "Current United States Champion (2x)",
       "Intercontinental Champion -- ended Gunther's 666-day reign at WrestleMania XL",
@@ -334,7 +334,7 @@ const WRESTLERS = {
   },
   "trick-williams": {
     name: "Trick Williams",
-    nickname: "Whoop That Trick",
+    nickname: "",
     aliases: "",
     brand: "SmackDown",
     alignment: "Face",
@@ -347,8 +347,8 @@ const WRESTLERS = {
     finisherDesc: "A devastating jumping knee strike that catches opponents right on the chin. Lights out.",
     entranceTheme: "Whoop That Trick",
     entranceArtist: "def rebel",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "5tKDNAeKUJ7p5oRsakCjKL",
+    entranceVideo: { id: "MbI5NcYr5QI", start: 0, label: "Entrance", desc: "The crowd goes WILD for Trick Williams. Listen for the \"WHOOP THAT TRICK!\" chants. Pure energy." },
     highlights: [
       "2x NXT Champion",
       "NXT North American Champion",
@@ -362,8 +362,8 @@ const WRESTLERS = {
     nickname: "The Samoan Werewolf",
     aliases: "",
     brand: "SmackDown",
-    alignment: "Heel",
-    alignmentDesc: "The Bloodline's most dangerous enforcer",
+    alignment: "Face",
+    alignmentDesc: "Fan favorite powerhouse",
     isChampion: false,
     title: null,
     img: "https://www.wwe.com/f/styles/talent_champion_lg/public/2026/02/Jakob_Fatu_PROFILE.png",
@@ -372,8 +372,8 @@ const WRESTLERS = {
     finisherDesc: "A top-rope backflip splash. At 285 pounds, Fatu doing a moonsault is terrifying. He also uses a devastating hip attack and a Samoan Spike.",
     entranceTheme: "Untouchable",
     entranceArtist: "def rebel",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "62nBP4xIKjarus9ZR4IDj9",
+    entranceVideo: { id: "EWz-_LsMmaE", start: 3, end: 46, label: "Entrance", desc: "The Samoan Werewolf. Watch Fatu's wild energy as he makes his entrance. 285 pounds of pure chaos." },
     highlights: [
       "Former United States Champion",
       "WWE Tag Team Champion",
@@ -397,8 +397,8 @@ const WRESTLERS = {
     finisherDesc: "A running kick with the force of a sword strike. McIntyre charges full speed and boots his opponent in the face. Also uses the Glasgow Kiss (headbutt).",
     entranceTheme: "Broken Dreams / Gallantry",
     entranceArtist: "def rebel",
-    spotifyId: null,
-    entranceVideo: null,
+    spotifyId: "2iLQ7wYAZLANjQ2NLqj3hR",
+    entranceVideo: { id: "frYZg0i0O9Y", start: 3, end: 96, label: "Entrance", desc: "The Scottish Warrior's entrance. Drew's intensity and presence are unmatched -- watch the crowd react to the countdown and the Claymore pose." },
     highlights: [
       "2x WWE Champion",
       "World Heavyweight Champion",
@@ -551,7 +551,11 @@ const MATCHES = [
       { label: "Trick Williams wins", wrestler: "Trick Williams" }
     ],
     feudSubtitle: "Can Trick Whoop That WrestleMania or will Zayn deliver more magic?",
-    feudVideos: []
+    feudVideos: [
+      { id: "p7o2j63oI_Q", start: 85, end: 138, label: "The Confrontation", title: "Trick Confronts Sami Zayn", desc: "Trick Williams gets in Sami's face and makes his intentions clear. He's coming for the United States Championship." },
+      { id: "f_foUS9Qv7M", start: 43, end: 95, label: "The Response", title: "Sami Confronts Trick Williams", desc: "Sami fires back at Trick. The tension between these two is boiling over." },
+      { id: "OWixMWyuswA", start: 85, end: 134, label: "It Gets Physical", title: "Sami Punches Trick Backstage", desc: "Sami takes it too far and punches Trick backstage. This feud just crossed a line." }
+    ]
   },
   {
     id: "match-8",
@@ -568,7 +572,11 @@ const MATCHES = [
       { label: "Jacob Fatu wins", wrestler: "Jacob Fatu" }
     ],
     feudSubtitle: "No rules. No protection. Just chaos. Watch how this war spiraled out of control.",
-    feudVideos: []
+    feudVideos: [
+      { id: "_hxdcLCcVlQ", start: 5, end: 44, label: "Ambush", title: "Drew Beats Jacob in a Car", desc: "Drew McIntyre ambushes Jacob Fatu and attacks him in a car. This feud has gone beyond the ring." },
+      { id: "_hxdcLCcVlQ", start: 171, end: 257, label: "Payback", title: "Jacob Throws Drew Into the Steps", desc: "Jacob Fatu gets his revenge, throwing Drew into the steel steps with violent force. Neither man will stop." },
+      { id: "uFE-EzbYo_w", start: 0, end: 142, label: "Face to Face", title: "Drew and Jacob Exchange Words", desc: "An intense face-to-face confrontation. You can feel the hatred between these two. This can only end at WrestleMania." }
+    ]
   }
 ];
 
